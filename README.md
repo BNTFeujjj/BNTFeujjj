@@ -1,4 +1,4 @@
 - 👋 Salut, Je suis @BNTFeujjj
 - 👀 Je suis codedur de Bot discord en JS
 - 💞️ Je suis le créateur de BotifyHost, hébergeur de bot discord et de VPS !
-- 📫 Discord : https://discord.gg/ZQ92VZuT4X
+- 📫 Discord : https://discord.gg/P6mYhmFzMn
